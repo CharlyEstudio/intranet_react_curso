@@ -1,0 +1,1 @@
+export const BASE_PATH = `https://ferremayoristas.com.mx:3001`;
